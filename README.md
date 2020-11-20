@@ -28,7 +28,8 @@
   <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
+![visitors](https://badges.pufler.dev/visits/jmathiasj/jmathiasj)
 <br>
-<!-- ![visitors](https://badges.pufler.dev/visits/jmathiasj/jmathiasj) -->
 
 ![Jenell's Github Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jmathiasj&layout=compact&langs_count=7)
+
