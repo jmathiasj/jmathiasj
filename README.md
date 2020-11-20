@@ -13,7 +13,7 @@
   </a>
 </p>
 
-- 🔭 I currently work on building Full Stack Applications in MEAN stack..
+- 🔭 I currently work on building Full Stack Applications..
 - 🤔 I love to explore new technologies..
 - ⚡ Fun fact: Besides work I enjoy singing and baking!!
 
