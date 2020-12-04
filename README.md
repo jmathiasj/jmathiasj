@@ -13,8 +13,6 @@
   </a>
 </p>
 
-- 🔭 I build Full Stack Applications..
-- 🤔 I love to explore new technologies..
 
 
 
