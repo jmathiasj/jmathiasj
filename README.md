@@ -7,7 +7,7 @@
 
 
  <br>
-My name is Jenell and I currently work in Mumbai. I love to explore new technologies...<br />
+My name is Jenell and I amd currently pursuing my MS CS Degree at Stony Brook University. I love to explore new technologies...<br />
 👨‍💻 Never be afraid of making mistakes and keep learning!!<br />
 ⚡ Fun fact: I enjoy painting, singing and baking...<br />
 <br>
