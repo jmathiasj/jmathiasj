@@ -20,4 +20,4 @@ My name is Jenell and I am currently pursuing my MS CS Degree at Stony Brook Uni
 <!-- <div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmathiasj&show_icons=true" alt="jmathiasj" /></div> -->
 <br>
 
-![visitors](https://badges.pufler.dev/visits/jmathiasj/jmathiasj)
+<!-- ![visitors](https://badges.pufler.dev/visits/jmathiasj/jmathiasj) -->
